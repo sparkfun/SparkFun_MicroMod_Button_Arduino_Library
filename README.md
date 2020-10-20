@@ -25,6 +25,11 @@ Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide)** - Basic hookup guide for the MicroMod Input and Display Carrier Board.
 
+Products that use this Library 
+---------------------------------
+
+* [SparkFun MicroMod Input and Display Carrier Board (16985)](https://www.sparkfun.com/products/16985)- The MicroMod Input and Display Carrier Board
+
 
 License Information
 -------------------
