@@ -21,6 +21,11 @@ Repository Contents
 * **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
 * **library.properties** - General library properties for the Arduino package manager. 
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-micromod-input-and-display-carrier-board-hookup-guide)** - Basic hookup guide for the MicroMod Input and Display Carrier Board.
+
+
 License Information
 -------------------
 
